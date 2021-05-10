@@ -144,7 +144,7 @@ body {
 #side .box {
     margin: 0 auto 30px auto;
     padding: 0 0 20px 0;
-    background: url(side_box.png) bottom no-repeat;
+    background: url(images/side_box.png) bottom no-repeat;
 }
 #side .box h2 {
     margin: 0;
@@ -154,7 +154,7 @@ body {
     font-size: 16px;
     line-height: 16px;
     font-weight: normal;
-    background: url(side_box_h2.png) center no-repeat;
+    background: url(images/side_box_h2.png) center no-repeat;
 }
 #side .box .boxBody {
     padding: 8px;
